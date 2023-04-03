@@ -1,4 +1,4 @@
-# Sorting
+# sorting
 Algorithms for sorting
 
 Arrays_one.java - checks if String is palindrome <br />
@@ -11,4 +11,4 @@ Quick_sort.java -  quick sort algorithm <br />
 Recursion_1.java - finds max in array <br /> 
 Recursion_2.java - identifies number of 0s in binary version <br />
 Recursion_3.java - recursive algorithm to check if String is palindrome <br />
-Selection_sort.java - selection sort algorithm <br /> 
+Selection_sort.java - selection sort algorithm <br />
